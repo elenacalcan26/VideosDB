@@ -1,2 +1,16 @@
 Starting audit...
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/actor/Actor.java:54:49: 'awards' hides a field. [HiddenField]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/actor/Actor.java:71:47: 'awards' hides a field. [HiddenField]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/entertainment/Show.java:41:38: 'year' hides a field. [HiddenField]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/database/Database.java:536:41: 'movie' hides a field. [HiddenField]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:76:5: Method length is 272 lines (max allowed is 150). [MethodLength]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:98:13: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:101:21: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:150:21: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:154:29: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:197:29: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:247:29: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:250:88: '3' is a magic number. [MagicNumber]
+[ERROR] /home/elena/Desktop/poo-git/VideosDB/Tema-POO-2020/./src/main/Main.java:285:21: switch without "default" clause. [MissingSwitchDefault]
 Audit done.
+Checkstyle ends with 13 errors.

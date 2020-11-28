@@ -1,5 +1,9 @@
 package main;
 
+import action.QueryActor;
+import action.QueryMovie;
+import action.QueryShow;
+import action.QueryUser;
 import action.Recommendation;
 import checker.Checkstyle;
 import checker.Checker;
