@@ -1,5 +1,6 @@
 package main;
 
+import action.Recommendation;
 import checker.Checkstyle;
 import checker.Checker;
 import common.Constants;
