@@ -1,7 +1,7 @@
 # VideosDB
 
 <h5> Calcan Elena-Claudia <br/>
-     321CA <\h5>	
+     321CA </h5> <br/>	
 
 Programul implementeaza o simulare a unor actiuni pe care le pot face 
 utilizatorii pe o platforma de vizualizare de filme.
